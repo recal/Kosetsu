@@ -1,0 +1,23 @@
+{
+	"name": "kosetsu",
+	"displayName": "Kosetsu",
+	"description": "Kōsetsu / 降雪 / Snowfall (VSC Theme)",
+	"publisher": "Recal",
+	"version": "0.0.3-alpha",
+	"icon": "ico.jpg",
+	"engines": {
+		"vscode": "^1.51.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Kosetsu",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Kosetsu-color-theme.json"
+			}
+		]
+	}
+}
